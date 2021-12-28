@@ -1,2 +1,2 @@
 # Home-assignments
-Variant #1
+Variant #2
