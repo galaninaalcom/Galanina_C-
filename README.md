@@ -1,1 +1,2 @@
-# Galanina_C-
+# Home-assignments
+Variant #1
